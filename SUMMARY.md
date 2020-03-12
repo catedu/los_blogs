@@ -29,4 +29,8 @@
   * [2.5 Fotos Google](2-aumentar-y-mejorar-nuestro-blog/25-fotos-google.md)
   * [2.6 Fotos PhotoSnack](2-aumentar-y-mejorar-nuestro-blog/26-fotos-photosnack.md)
   * [2.7 Podcast](2-aumentar-y-mejorar-nuestro-blog/27-podcast.md)
+  * [2.8 Historias](2-aumentar-y-mejorar-nuestro-blog/28-playbuzz.md)
+  * [2.9 Bannersnack](2-aumentar-y-mejorar-nuestro-blog/29-bannersnack.md)
+  * [2.10 Presentaciones](2-aumentar-y-mejorar-nuestro-blog/210-presentaciones.md)
+  * [2.11 Genially](2-aumentar-y-mejorar-nuestro-blog/211-genially.md)
 
