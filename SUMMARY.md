@@ -26,4 +26,5 @@
   * [2.2 Embeber WP](2-aumentar-y-mejorar-nuestro-blog/22-embeber-wp.md)
   * [2.3 Youtube](2-aumentar-y-mejorar-nuestro-blog/youtube.md)
   * [2.4 EdPuzzle](2-aumentar-y-mejorar-nuestro-blog/24-edpuzzle.md)
+  * [2.5 Fotos Google](2-aumentar-y-mejorar-nuestro-blog/25-fotos-google.md)
 
