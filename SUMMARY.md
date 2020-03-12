@@ -33,4 +33,5 @@
   * [2.9 Bannersnack](2-aumentar-y-mejorar-nuestro-blog/29-bannersnack.md)
   * [2.10 Presentaciones](2-aumentar-y-mejorar-nuestro-blog/210-presentaciones.md)
   * [2.11 Genially](2-aumentar-y-mejorar-nuestro-blog/211-genially.md)
+  * [2.12 Libros](2-aumentar-y-mejorar-nuestro-blog/212-libros.md)
 
