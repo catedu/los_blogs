@@ -2,7 +2,7 @@
     "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
     "language": "es",
     "variables": {
-        "title": "Resolución de problemas",
+        "title": "Aprendizaje Colaborativo con Blogs",
         "authors": [
             "Javier Quintana Peiró",
             "___________"
@@ -17,15 +17,15 @@
             "filename": "./FOOTER.md"
         },
         "image-captions": {
-            "caption": "Fuente - _CAPTION_"
+            "caption": "Imagen - _CAPTION_"
         },
         "edit-link": {
-            "base": "https://github.com/catedu/resolucion-de-problemas/edit/master",
+            "base": "https://github.com/catedu/los_blogs/edit/master",
             "label": "Edita esta página"
         },
         "githubcontributors": {
             "githubOwner": "catedu",
-            "githubRepository": "resolucion-de-problemas"
+            "githubRepository": "los_blogs"
         }
     }
 }
