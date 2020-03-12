@@ -18,6 +18,9 @@ Entras:
 ![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/2020-03-10%2013_28_58.jpg)
 
 ### Paso 2 embeber
-Consigue tu código Embed, lo copias
-Creas un nuevo artículo
-Herramientas - <>Código fuente y pegas el código ahí
+
+1.- Consigue tu código Embed, lo copias
+2.- Creas un nuevo artículo
+3.-Herramientas - <>Código fuente y pegas el código ahí
+
+![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/2020-03-10%2013_33_45.jpg)
