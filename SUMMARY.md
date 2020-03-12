@@ -22,4 +22,6 @@
     * [1.7.4 Avanzando](los-blogs/17-wordpress/174-avanzando.md)
   * [1.8 Ejemplos](los-blogs/18-ejemplos.md)
 * [2 Mejorar nuestro Blog](2-aumentar-y-mejorar-nuestro-blog.md)
+  * [2.1 Embeber Blogger](2-aumentar-y-mejorar-nuestro-blog/21-embeber-blogger.md)
+  * [2.2 Embeber WP](2-aumentar-y-mejorar-nuestro-blog/22-embeber-wp.md)
 
