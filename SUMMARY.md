@@ -52,4 +52,5 @@
   * [4.3 Modo de participación](4-orientaciones/43-modo-de-participacion.md)
   * [4.4 Actividades](4-orientaciones/44-actividades.md)
   * [4.5 Proceso](4-orientaciones/45-proceso.md)
+  * [4.6 Trabajo en equipo y roles](4-orientaciones/trabajo-en-equipo-y-roles.md)
 
