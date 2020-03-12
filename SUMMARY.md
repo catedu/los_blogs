@@ -56,4 +56,5 @@
   * [4.7 Recursos](4-orientaciones/47-recursos.md)
   * [4.8 Evaluación](4-orientaciones/48-evaluacion.md)
   * [4.9 Ampliación de contenidos](4-orientaciones/49-ampliacion-de-contenidos.md)
+* [Créditos](creditos.md)
 
