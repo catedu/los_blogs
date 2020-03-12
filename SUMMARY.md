@@ -46,4 +46,8 @@
   * [3.5 Padlet](3-aprendizaje-colaborativo/35-padlet.md)
   * [3.6 Encuestas](3-aprendizaje-colaborativo/36-encuestas.md)
   * [3.7 Archivos](3-aprendizaje-colaborativo/37-archivos.md)
+* [4 Propuesta](4-orientaciones.md)
+  * [4.1 Orientaciones](4-orientaciones/41-orientaciones.md)
+  * [4.2 ¿Dónde nos metemos?](4-orientaciones/42-donde-nos-metemos.md)
+  * [4.3 Modo de participación](4-orientaciones/43-modo-de-participacion.md)
 
