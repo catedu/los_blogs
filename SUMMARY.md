@@ -42,5 +42,8 @@
   * [3.1 Documentos Google](3-aprendizaje-colaborativo/31-documentos-google.md)
   * [3.2 Presentacion Google](3-aprendizaje-colaborativo/32-presentacion-google.md)
   * [3.3 Hoja cálculo Google](3-aprendizaje-colaborativo/33-hoja-calculo-google.md)
-  * [3.4 Ojo con los permisos](3-aprendizaje-colaborativo/34-ojo-con-los-permisos.md)
+  * [3.4 OJO](3-aprendizaje-colaborativo/34-ojo-con-los-permisos.md)
+  * [3.5 Padlet](3-aprendizaje-colaborativo/35-padlet.md)
+  * [3.6 Encuestas](3-aprendizaje-colaborativo/36-encuestas.md)
+  * [3.7 Archivos](3-aprendizaje-colaborativo/37-archivos.md)
 
