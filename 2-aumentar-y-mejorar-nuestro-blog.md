@@ -14,3 +14,8 @@ Enumeraremos la lista de objetivos a alcanzar con el trabajo en este módulo:
  - Visual: con elementos multimedia
  - Potencial: Usando enlaces a otras páginas, a otras informaciones
  - Representativo: Cada concepto tiene una forma de representación óptima; Hay que utilizarlo!
+ 
+ En este tema nos dedicaremos a dar potencialidad al blog creado en el módulo anterior.
+Pero no olvides que aún nos falta más interacción, de momento la información va en un sentido Blog =>Alumno, o Profesor=>Alumno
+
+![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/cabeza1.gif)
