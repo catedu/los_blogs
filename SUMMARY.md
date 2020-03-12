@@ -54,4 +54,6 @@
   * [4.5 Proceso](4-orientaciones/45-proceso.md)
   * [4.6 Trabajo en equipo y roles](4-orientaciones/trabajo-en-equipo-y-roles.md)
   * [4.7 Recursos](4-orientaciones/47-recursos.md)
+  * [4.8 Evaluación](4-orientaciones/48-evaluacion.md)
+  * [4.9 Ampliación de contenidos](4-orientaciones/49-ampliacion-de-contenidos.md)
 
