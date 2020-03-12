@@ -37,4 +37,5 @@
   * [2.12 Lineas de tiempo](2-aumentar-y-mejorar-nuestro-blog/212-lineas-de-tiempo.md)
   * [2.13 Mapas mentales](2-aumentar-y-mejorar-nuestro-blog/213-mapas-mentales.md)
   * [2.14 Nubes de palabras](2-aumentar-y-mejorar-nuestro-blog/214-nubes-de-palabras.md)
+  * [2.15 Más...](2-aumentar-y-mejorar-nuestro-blog/215-mas.md)
 
