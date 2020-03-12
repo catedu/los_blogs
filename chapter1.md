@@ -1,3 +1,5 @@
-# First Chapter
+#0 Licencias
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+En este curso vas a aprender a crear blogs y a lo mejor publicas contenidos.
+
+Hemos introducido una breve introducción de las licencias para tener claro este aspecto.
