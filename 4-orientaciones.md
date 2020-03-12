@@ -3,9 +3,8 @@
 ##INTRODUCCIÓN
 La participación en cualquier tipo de actividad, y más si implica a un nutrido grupo de alumnos y de diferentes procedencias, es algo que no se puede dejar en manos del devenir y confiar en la buena marcha de las cosas. Es imprescindible hacer una buena planificación y procurarse las mayores garantías posibles de éxito. Para ello deberemos contemplar diferentes cuestiones que pasamos a analizar y que siempre estarán en función de las circunstancias concretas de cada caso.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/960_es-trabajo-en-equipo-m.jpg)
-
-_Fuente: http://comp.asimag.es/ _
+![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
+[Photo by Marvin Meyer on Unsplash](https://unsplash.com/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
 ##Objetivos

@@ -26,5 +26,6 @@ Sólo una **respuesta afirmativa** a estas preguntas nos debería **motivar para
 
 - Temporalización de las actividades y su influencia en la programación.
 
-![Fig. 4.2 Fuente:http://adkfh.blogspot.com.es/](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/trabajo-en-equipo155.gif)
+![](https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
+[Photo by You X Ventures on Unsplash](https://unsplash.com/@youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

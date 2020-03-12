@@ -11,7 +11,7 @@ Trabajando con cualquiera de esta tipología de actividades, los beneficios para
 - Mejora el clima del aula, fomentando valores tan importantes como la solidaridad o cooperación.
 - Los refuerzos positivos entre iguales y la retroalimentación son dos potentes herramientas en el aula colaborativa.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/trabajo-colaborativo1.jpg)
 
-Fuente:http://blogs.educared.org/red-pronino/
+![](https://images.unsplash.com/photo-1566140967404-b8b3932483f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
+[Photo by Vlad Hilitanu on Unsplash](https://unsplash.com/@vladhilitanu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

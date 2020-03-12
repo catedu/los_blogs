@@ -1,4 +1,4 @@
-#Contenidos: U.1:Orientaciones
+#Orientaciones
 
 Este modulo se compone de una sola unidad “Orientaciones”, agrupando aspectos como: ¿Dónde nos metemos? Premisas previas, Modos de participación, Actividades, Proceso, Trabajo en equipo y roles, Recursos y Evaluación.
 
@@ -13,3 +13,7 @@ Es posible que se presenten dudas entre la diferenciación entre proyecto cooper
 ## Importante
 
 Como hemos podido ver en esta magnifica presentación, de su análisis se traduce algo muy importante: la elaboración y creación de proyectos colaborativos supone un cambio de paradigma y de ver la educación, no podemos hacer lo mismo con diferentes herramientas, esto es crucial para entender la esencia de estas actividades. El proyecto colaborativo aislado no tiene fundamento educativo, este se lo dará una visión mas amplia de lo que pretendemos hacer, dejemos a la creatividad actuar...
+
+![](https://images.unsplash.com/photo-1579724984996-c2d12999e8f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
+
+[Photo by Ahmed Zayan on Unsplash](https://unsplash.com/@zayyerrn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

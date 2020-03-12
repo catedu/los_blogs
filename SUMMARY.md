@@ -50,4 +50,6 @@
   * [4.1 Orientaciones](4-orientaciones/41-orientaciones.md)
   * [4.2 ¿Dónde nos metemos?](4-orientaciones/42-donde-nos-metemos.md)
   * [4.3 Modo de participación](4-orientaciones/43-modo-de-participacion.md)
+  * [4.4 Actividades](4-orientaciones/44-actividades.md)
+  * [4.5 Proceso](4-orientaciones/45-proceso.md)
 
