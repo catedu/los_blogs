@@ -1,8 +1,8 @@
 #Dónde creo mi blog
 Aunque al principio había muchas plataformas donde poder crear nuestro blog, lo cierto es que actualmente se han impuesto dos: Blogger y Wordpress.
-¿Cual aconsejamos en este curso? Nuestro favorito por los problemas de embeber de WordPress, RECOMENDAMOS EN ESTE CURSO **Blogger**.
+¿Cual aconsejamos en este curso? Nuestro favorito por los problemas de embeber de WordPress, **RECOMENDAMOS EN ESTE CURSO BLOGGER**.
 
-PUEDES ABRIR UN **WORDPRESS PERO PARA EVITAR PUBLICIDAD Y TENER CONTROL TIENE QUE SER EN CATEDU**.
+PUEDES ABRIR UN WORDPRESS PERO PARA EVITAR PUBLICIDAD Y TENER CONTROL TIENE QUE SER EN CATEDU.
 
 ###BLOGGER
 
