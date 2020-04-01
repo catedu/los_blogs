@@ -4,7 +4,7 @@
 
 - [Seleccionar inicio Wordpress](https://wordpress.com/es/support/paginas/pagina-de-inicio/)
 
-- [Imágenes con hipervínculo Wordpress](https://www.youtube.com/watch?v=J04nggHi-2Y)
+- [Imágenes con hipervínculo Wordpress](https://www.creaygestionatublog.com/como-poner-una-imagen-con-enlace-en-wordpress/)
 
 - [Crear tablas de TablePress en Wordpress](https://kinsta.com/es/blog/tablas-en-wordpress/)
 
