@@ -10,4 +10,4 @@
 
 - [Exportar tablas de TablePress en Wordpress](https://www.youtube.com/watch?v=gz4cEPekIhY)
 
-- [Instalar plugins Wordpress](https://www.youtube.com/watch?v=vzvilfDStvg)
+- [Instalar plugins Wordpress](https://www.youtube.com/watch?v=iG64ZOk-Grs)
