@@ -1,5 +1,5 @@
 #Lluvia de ideas
-si queremos que los alumnos participen en una lluvia de ideas, https://answergarden.ch/ está muy bien, no hace falta registro, sencilla, útil.... *recomendamos poner una contraseña y/o un correo electrónico en la creación para poder moderar y quitar contenido inapropiado que alguien pueda poner*
+Si queremos que los alumnos participen en una lluvia de ideas, https://answergarden.ch/ está muy bien, no hace falta registro, sencilla, útil.... *recomendamos poner una contraseña y/o un correo electrónico en la creación para poder moderar y quitar contenido inapropiado que alguien pueda poner*
 
 ##Un ejemplo 
 Pues sí, puedes participar en esta llúvia de ideas https://answergarden.ch/1168999 y aquí es cómo queda embebido en tu blog:
