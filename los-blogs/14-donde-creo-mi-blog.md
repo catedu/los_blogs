@@ -25,6 +25,11 @@ PUEDES ABRIR UN WORDPRESS PERO PARA EVITAR PUBLICIDAD Y TENER CONTROL TIENE QUE 
     * La opción más sencilla es en https://es.wordpress.com/ pero **queda descartada para este curso** al no permitir embeber y no permitir llevar a cabo muchas de las tareas necesarias
 
 [+ info](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/wordpress.html)
+
+>**info**
+>**¿Puedo crearlo en Google Sites? No, porque :
+> * Google Site está pensado para *pagina web* ¿no sabes la diferencia entre un blog y una página web? [vuelve a leerlo](/los-blogs.md)
+>* Tiene bloqueado muchos códigos embed que necesitamos en este curso
     
     
 
