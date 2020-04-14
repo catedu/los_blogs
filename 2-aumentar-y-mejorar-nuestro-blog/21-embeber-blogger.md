@@ -17,5 +17,12 @@ En general la técnica es común a los editores WYSIWYG. (es el acrónimo de Wha
 
 La **TÉCNICA **es sencilla:
 
-1.- Conseguir el código embed. Hay que utilizar la intuición para buscar el código embed, a veces con el botón <> otras con la palabra compartir o con el símbolo , etc.
-2.- Entrar en el artículo donde quieres insertar, y buscar el botón ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2bl_sMdiGOUlFAFQJW9KZ4CIxJz286l8iq4ril2vdnmcN7_LFgg) HTML, <> en Arablogs, Blogger o WordPress.. e insertar el código embed
+**LO PRIMERO QUE TIENES QUE HACER es conseguir el código embed**. Hay que utilizar la intuición para buscar el código embed, a veces con el botón <> otras con la palabra compartir o con el símbolo , etc... (botón derecho **copiar**)
+
+** PEGAR EL CÓDIGO EMBED QUE HAS COPIADO**- Entrar en el artículo donde quieres insertar, y buscar el botón HTML, y pegar el código embed (botón derecho **pegar**)
+
+![](/assets/2020-04-14 09_20_38-Blogger_ BLOG DE JAVIER QUINTANA - Editar entrada.jpg)
+
+>**tip**
+>Puedes pegar el código donde quieras en medio de la redacción por ejemplo "Mira el siguiente vídeo ... y pegas el código ahí
+>También puedes modificar el tamaño de lo embebido, por ejemplo en la figura anterior se podría modificar los números width="1000" y height="800" si lo embebido sale de tu plantilla elegida en tu blog
