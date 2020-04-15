@@ -23,8 +23,7 @@ Los pasos de creación de mapas mentales, historias, etc.. son intuitivas, una v
 ####1.3 GOCONQR ¿COMO QUEDA?
 Pues así
 
-<iframe width='100%' height='600px' scrolling='no' src='https://www.goconqr.com/en-GB/p/5420749-electricidad-industrial-mind_maps?frame=true' style='border: 1px solid #ccc' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><a href='https://www.goconqr.com/en/mind-maps'>Mind Map created by salcedo527 with GoConqr</a>
-
+<iframe width='100%' height='600px' scrolling='no' src='https://www.goconqr.com/en-GB/p/5420749-electricidad-industrial-mind_maps?frame=true' style='border: 1px solid #ccc' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ###2.1 MINDOMO REGISTRO
 
