@@ -1,10 +1,12 @@
 #Mapa mental
 ##¿Qué es?
 Los mapas mentales son otra forma de representar la información cartografiando las reflexiones acerca de un concepto mediante una estructura orgánica en la que el conocimiento se organiza para conseguir un aprendizaje significativo y activo.
-Los servicios Web 2.0 que permiten construir mapas mentales suelen añadir un valor nuevo e importantísimo para el aula: la colaboración entre iguales a la hora de construir el entramado conceptual, de forma que el resultado final es obra de un equipo coordinado. Por otra parte, la posibilidad de añadir cualquier elemento de la red a la estructura: vídeos, imágenes, enlaces, sonidos, además de textos, convierten a estas representaciones en organismos vivos en los que la multidireccionalidad de nuestro pensamiento queda representada y lista para seguir toda una red de conexiones neuronales. Pincha en JR Olalla 9/11/13
+Los servicios Web 2.0 que permiten construir mapas mentales suelen añadir un valor nuevo e importantísimo para el aula: la colaboración entre iguales a la hora de construir el entramado conceptual, de forma que el resultado final es obra de un equipo coordinado. Por otra parte, la posibilidad de añadir cualquier elemento de la red a la estructura: vídeos, imágenes, enlaces, sonidos, además de textos, convierten a estas representaciones en organismos vivos en los que la multidireccionalidad de nuestro pensamiento queda representada y lista para seguir toda una red de conexiones neuronales. [JR Olalla 9/11/13](http://jr2punto0.blogspot.com/2013/11/mapas-mentales.html)
 ##¿Qué herramientas hay?
-Hay muchísimas como gustos: Popplet , Spicesnode, Mind42, Mindomo (gratis sólo hasta 3 mapas). (Ver artículos JR Olalla). ¿Cuál recomendamos? Nuestras favoritas son 
+Hay muchísimas como gustos: Popplet , Spicesnode, Mind42, Mindomo (gratis sólo hasta 3 mapas). ([Ver artículos JR Olalla](http://jr2punto0.blogspot.com/search/label/mapas%20conceptuales)). ¿Cuál recomendamos? Nuestras favoritas son:
+
  1.-MINDOMO
+ 
  2.-GOCONQR
 
 ####1.1 MINDOMO REGISTRO
