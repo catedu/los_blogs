@@ -1,7 +1,7 @@
 #EtherPad
 ¿Tenemos que depender de Google para hacer documentos colaborativos? La respuesta es que no, por ejemplo hay una de software libre llamada **etherpad** https://etherpad.org/ que te lo puedes instalar en tu ordenador y la gente colabora (pero obliga a tener el ordenador encendido)
 
-Podemos usar sitios públicos donde está instalado en https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite 
+Podemos usar sitios públicos donde está instalado y no tener que usar nuestro ordenador. En https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite tienes la lista.
 
 Por ejemplo, vamos a elegir de la lista anterior una localizada cerca (Francia) y que no requiera registro (genial para los alumnos) https://pad.education (run by France Université Numérique)
 
