@@ -40,6 +40,7 @@
 * [3 Aprendizaje colaborativo](3-aprendizaje-colaborativo.md)
   * [3.1 Documentos Google](3-aprendizaje-colaborativo/31-documentos-google.md)
     * [3.1.1 Cambia el tamaño](3-aprendizaje-colaborativo/31-documentos-google/311-cambia-el-tamano.md)
+    * [3.1.2 EtherPad](3-aprendizaje-colaborativo/31-documentos-google/312-etherpad.md)
   * [3.2 Presentacion Google](3-aprendizaje-colaborativo/32-presentacion-google.md)
   * [3.3 Hoja cálculo Google](3-aprendizaje-colaborativo/33-hoja-calculo-google.md)
   * [3.4 OJO](3-aprendizaje-colaborativo/34-ojo-con-los-permisos.md)
