@@ -36,7 +36,8 @@
   * [2.12 Lineas de tiempo](2-aumentar-y-mejorar-nuestro-blog/212-lineas-de-tiempo.md)
   * [2.13 Mapas mentales](2-aumentar-y-mejorar-nuestro-blog/213-mapas-mentales.md)
   * [2.14 Nubes de palabras](2-aumentar-y-mejorar-nuestro-blog/214-nubes-de-palabras.md)
-  * [2.15 Más...](2-aumentar-y-mejorar-nuestro-blog/215-mas.md)
+  * [2.15 Quizlet](2-aumentar-y-mejorar-nuestro-blog/quizlet.md)
+  * [2.16 Más...](2-aumentar-y-mejorar-nuestro-blog/215-mas.md)
 * [3 Aprendizaje colaborativo](3-aprendizaje-colaborativo.md)
   * [3.1 Documentos Google](3-aprendizaje-colaborativo/31-documentos-google.md)
     * [3.1.1 Cambia el tamaño](3-aprendizaje-colaborativo/31-documentos-google/311-cambia-el-tamano.md)
@@ -60,7 +61,3 @@
   * [4.8 Evaluación](4-orientaciones/48-evaluacion.md)
   * [4.9 Ampliación de contenidos](4-orientaciones/49-ampliacion-de-contenidos.md)
 * [Créditos](creditos.md)
-
-<!-- 
-Publicando en github
--->
