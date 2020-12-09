@@ -13,11 +13,11 @@ Hay dos posibilidades:
 ## Presentación Google Drive (recomendado)
 Si hemos realizado una presentación online en Drive, lo podemos incrustar (embeber), dando a Publicar:
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/presentacion1.jpeg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/presentacion1.jpeg)
 
 Y luego en **Insertar - Publicar** y nos enseña el código incrustado (embed) para ponerlo en nuestro artículo (antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público).
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/presentacion2.jpeg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/presentacion2.jpeg)
 
 Aquí tienes cómo queda:
 

@@ -21,7 +21,7 @@ La **TÉCNICA **es sencilla:
 
 ** PEGAR EL CÓDIGO EMBED QUE HAS COPIADO**- Entrar en el artículo donde quieres insertar, y buscar el botón HTML, y pegar el código embed (botón derecho **pegar**)
 
-![](/assets/2020-04-14 09_20_38-Blogger_ BLOG DE JAVIER QUINTANA - Editar entrada.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-04-14 09_20_38-Blogger_ BLOG DE JAVIER QUINTANA - Editar entrada.jpg)
 
 >**tip**
 >Puedes pegar el código donde quieras en medio de la redacción por ejemplo "Mira el siguiente vídeo ... y pegas el código ahí

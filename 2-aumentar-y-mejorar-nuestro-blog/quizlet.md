@@ -9,17 +9,17 @@ Aquí tienes un ejemplo:
 
 Primero nos registramos y luego pulsamos en Create - Set
 
-![](/assets/quizlet1.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/quizlet1.jpg)
 
 Vamos rellenando las fichas (cards). *no intentes subir una imagen o poner cuestionario, sólo se puede si tienes cuenta no gratuita*
 
-![](/assets/quizlet2.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/quizlet2.jpg)
 
 ## ¿Donde está el código embed?
 
 Aquí
 
-![](/assets/quizlet3.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/quizlet3.jpg)
 
 ## ¿Puedo usar Quizlet de otros?
 

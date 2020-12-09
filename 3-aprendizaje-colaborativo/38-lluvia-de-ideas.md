@@ -8,7 +8,7 @@ Pues sí, puedes participar en esta llúvia de ideas https://answergarden.ch/116
 
 ##¿Cómo consigo el código embed?
 
-![](/assets/2020-04-02 12_28_07-AnswerGarden » Herramientas colaborativas...- Plant a Question, Grow Answers! Ge.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-04-02 12_28_07-AnswerGarden » Herramientas colaborativas...- Plant a Question, Grow Answers! Ge.jpg)
 
 ##¿Cómo funciona?
 Es muuuuy intuitivo, pero aquí tienes una ayuda https://view.genial.ly/5e84b7e8ba81d90dfb2e0469

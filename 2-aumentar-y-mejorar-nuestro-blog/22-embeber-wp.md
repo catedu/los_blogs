@@ -15,7 +15,7 @@ Entras:
 4.- lo seleccionas
 5.- Aplicar
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/2020-03-10%2013_28_58.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-10%2013_28_58.jpg)
 
 ### Paso 2 embeber
 
@@ -23,4 +23,4 @@ Entras:
 2.- Creas un nuevo artículo
 3.-Herramientas - <>Código fuente y pegas el código ahí
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/2020-03-10%2013_33_45.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-10%2013_33_45.jpg)

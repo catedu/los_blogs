@@ -28,6 +28,6 @@ Y vemos esta web para subir el archivo de audio
 Subimos el archivo de audio (Hay que usar un programa de grabación, recomendamos AUDACITY)
 Una vez subido, (nos insistirá que nos inscribamos a la cuenta no gratuita) podemos encontrar el código embed aquí:
 
-![](/assets/2020-03-12 14_00_10.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-12 14_00_10.jpg)
 
-![](/assets/2020-03-12 13_59_36.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-12 13_59_36.jpg)

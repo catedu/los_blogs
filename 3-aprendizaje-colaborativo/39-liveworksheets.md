@@ -11,12 +11,12 @@ Nos gusta mucho y además se puede embeber en tu blog ¿qué más se puede pedir
 ##¿Cómo se embebe?
 Tiene un enlace que te facilita el código, con unas mininstrucciones y con posibilidad de fijar en ancho ¡¡ójala todas las webs facilitasen así las cosas!!
 
-![](/assets/2020-05-08 10_29_46-Window.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-05-08 10_29_46-Window.jpg)
 
 ##Otra opción en vez de embeber: poner un enlace personalizado
 La opción **personalizar enlace** y añadir un enlace al blog pues permite algunas opciones de comprobación y calificación
 
- ![](/assets/2020-05-08 10_37_23-Window.jpg) 
+ ![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-05-08 10_37_23-Window.jpg) 
 
 ##¿Cómo queda?
 Pues así queda en enlace [personalizado](https://es.liveworksheets.com/c?a=s&t=13sez4gjjl&l=uk&i=ccztot&r=et).

@@ -21,28 +21,28 @@ Existen varias páginas para insertar preguntas interactivas en los vídeos, [Ed
 3.- Volvemos a https://edpuzzle.com  y vamos a Youtube
 4.- Ponemos en el cuadro de búsqueda el vídeo que hemos elegido
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/edpuzzle4.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/edpuzzle4.jpg)
 
 >También podemos subir un vídeo a EdPuzzle en Mi contenido - Crear contenido, pero recomendamos hacerlo siempre dede Youtube: Subir el vídeo nuestro en Youtube y en EdPuzzle elegirlo
 
 5.- Pinchamos en el vídeo y le damos a **editar** en el lápiz:
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/edpuzzle5.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/edpuzzle5.jpg)
 
 6.- Elegimos si queremos insertar una nota de audio, una pregunta abierta, una nota escrita... aquí por ejemplo se inserta una pregunta de tipo test: ¡¡espero que sepas cual es la respuesta correcta !!!
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/edpuzzle6.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/edpuzzle6.jpg)
 
 7.- Al pulsar grabar y después al pulsar finalizar nos sale un diálogo donde nos sale el link del vídeo y el código embebido
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/edpuzzle7.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/edpuzzle7.jpg)
 
 Aquí tienes el link. https://edpuzzle.com/media/5ca31d31cfe253416dd3bd42
 
 ####IMPORTANTE
 Hazlo **PUBLICO** PUES DE OTRO MODO OBLIGAS AL USUARIO A REGISTRARSE PARA VERLO
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/assets/publicoedmodo.png)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/publicoedmodo.png)
 
 y aquí está embebido:
 

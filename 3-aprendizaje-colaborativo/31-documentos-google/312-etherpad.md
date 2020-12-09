@@ -5,11 +5,11 @@ Podemos usar sitios públicos donde está instalado y no tener que usar nuestro 
 
 Por ejemplo, vamos a elegir de la lista anterior una localizada cerca (Francia) y que no requiera registro (genial para los alumnos) https://pad.education (run by France Université Numérique)
 
-![](/assets/2020-04-18 13_07_48-Pads for education.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-04-18 13_07_48-Pads for education.jpg)
 
 Le pongo de nombre **prueba** y nos crea la url https://pad.education/p/prueba que cualquiera puede entrar y colaborar y permite **EMBEBER**
 
-![](/assets/2020-04-18 13_09_07-prueba _ Pads for education.jpg)
+![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-04-18 13_09_07-prueba _ Pads for education.jpg)
 ##Ventajas
 Muy rápido, permite participantes a la vez con chat incorporado
 ##Desventajas
