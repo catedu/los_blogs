@@ -12,13 +12,13 @@ Solución: **ABRE UNA VENTANA EN INCÓGNITO Y MIRA TU BLOG** es tal y como lo ve
 
 En Chrome con las teclas Ctrl+May+N o pinchando aquí:
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-04-27_11_25_12-Clipboard.png)
+![](assets/incognito1.jpg)
 
 Como se puede ver, sale"necesitas permiso" luego no lo has hecho bien.
 
 En Firefox Ctrl+May+P o pinchado aquí:
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-04-27_11_34_34-Clipboard.png)
+![](assets/incognito2.jpg)
 
 #Drive Ojo si no es un documento Google
 
