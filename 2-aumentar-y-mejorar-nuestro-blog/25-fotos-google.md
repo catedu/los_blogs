@@ -8,19 +8,19 @@ Por ejemplo [ESTE ENLACE](https://goo.gl/photos/D6sAY7MVNP36BxeZ6)
 
 1. <span style="background-color:yellow">Crear un álbum</span> (no vamos a exponer como crear un álbum y subir fotos para no extendernos)
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-11-18_10_46_13-Albumes_-_Google_Fotos.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_46_13-Albumes_-_Google_Fotos.png)
 
 2. <span style="background-color:yellow">entrar en el álbum deseado tenemos en opciones</span>
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-11-18_10_48_42-aranas_y_mantis_-_Google_Fotos.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_48_42-aranas_y_mantis_-_Google_Fotos.png)
 
 3. <span style="background-color:yellow">Opciones para compartir</span>
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-11-18_10_48_59-aranas_y_mantis_-_Google_Fotos.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_48_59-aranas_y_mantis_-_Google_Fotos.png)
 
 4. <span style="background-color:yellow">Opciones muy interesantes</span>
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-11-18_10_49_21-aranas_y_mantis_-_Google_Fotos.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_49_21-aranas_y_mantis_-_Google_Fotos.png)
 
 
 
@@ -28,7 +28,7 @@ Por ejemplo el de <span style="background-color:yellow">COLABORAR</span>, podemo
 
 5. <span style="background-color:yellow">Le damos a copiar en enlace y ya está</span>
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-11-18_10_50_18-aranas_y_mantis_-_Google_Fotos.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_50_18-aranas_y_mantis_-_Google_Fotos.png)
 
 
 

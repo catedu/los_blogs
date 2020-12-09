@@ -6,7 +6,7 @@ Entramos en el backend y en Entradas podemos añadir una nueva o editar las exis
 
 
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/entradawp.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/entradawp.png)
 
 
 
@@ -14,7 +14,7 @@ Editamos el título y el contenido. La edición de contenido permite enlaces, im
 
 
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/entradawp3.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/entradawp3.png)
 
 ## Insertar imagen o vídeo
 
@@ -22,7 +22,7 @@ Podemos añadir una imagen en un artículo:
 
 
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/imagenWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/imagenWP.png)
 
 
 
@@ -30,7 +30,7 @@ Podemos subir un archivo desde nuestro ordenador, o elegir uno ya subido de la g
 
 
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/imagenovideoWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/imagenovideoWP.png)
 
 ## Imagen que encabeza la entrada
 
@@ -38,11 +38,11 @@ Podemos seleccionar entre las imágenes destacadas que luego encabezarán la not
 
 
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/entrada-imagenes.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/entrada-imagenes.png)
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/imagendestacada.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/imagendestacada.png)
 
 Elegimos alguna imagen subida o subimos nosotros la imagen
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/entrada-imagenes2.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/entrada-imagenes2.png)
 

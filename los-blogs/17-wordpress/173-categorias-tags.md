@@ -6,9 +6,9 @@ Seleccionar entre las categorías que están disponibles. Se pueden seleccionar 
 
 En el caso de las actividades, puede ser las fechas de las sesiones o las diferentes temáticas o _items _que trabajan y quieren colgar los contenidos.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/categoriasWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoriasWP.png)
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/categoria2.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoria2.png)
 
 
 ## Etiquetas
@@ -17,9 +17,9 @@ Son la palabras clave que facilitan encontrar la entrada, recomendamos usar siem
 
 Podemos poner más de una.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/etiquetas.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/etiquetas.png)
 
 ## Publicar
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/publicar.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/publicar.png)
 

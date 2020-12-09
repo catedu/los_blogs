@@ -14,12 +14,12 @@ y aquí mismo puedes ver el resultado embebido:
 
 Entramos en Google - Drive y creamos un nuevo documento :
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/Menu_002.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Menu_002.png)
 
 
 Hemos creado el documento, podemos editarlo, y cuando lo tengamos preparado para compartir, pinchamos en... compartir ¡claro!
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/Seleccion_003.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Seleccion_003.png)
 
 Con ese enlace lo podemos poner en nuestro blog y cualquiera que pinche en ese enlace puede editar el texto
 
@@ -27,11 +27,11 @@ Con ese enlace lo podemos poner en nuestro blog y cualquiera que pinche en ese e
 
 Pues en ese caso vamos a Archivo
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/Menu_005.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Menu_005.png)
 
 Y en la nueva ventana, seleccionamos Insertar... y obtenemos el código embed
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/Seleccion_008.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Seleccion_008.png)
 
 Fíjate que podemos detener la publicación cuando queramos
 

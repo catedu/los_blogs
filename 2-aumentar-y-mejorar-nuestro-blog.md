@@ -3,7 +3,7 @@
 Hay que tener en cuenta que NO SE PUEDE ABUSAR DE TEXTO, un artículo que obliga a desplazar hacia abajo la ventana, crea cansancio, no es lo mismo leer en la pantalla que en papel.
 Las nuevas tecnologías están para aprovecharlas: saca el máximo partido a la misma información. La forma es tan importante como el contenido.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/innovacion.gif)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/innovacion.gif)
 
 
 #Objetivos
@@ -18,4 +18,4 @@ Enumeraremos la lista de objetivos a alcanzar con el trabajo en este módulo:
  En este tema nos dedicaremos a dar potencialidad al blog creado en el módulo anterior.
 Pero no olvides que aún nos falta más interacción, de momento la información va en un sentido Blog =>Alumno, o Profesor=>Alumno
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/cabeza1.gif)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/cabeza1.gif)

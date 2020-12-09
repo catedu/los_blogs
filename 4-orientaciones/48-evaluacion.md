@@ -32,5 +32,5 @@ Esta actividad de autoevaluación, pretende ser un ejercicio de reflexión y an�
 
 Mediante este blog, ["Construyendo historias"](http://proyectoconstruyendohistorias.blogspot.com.es/), se trata de que identifiquéis todos los elementos necesarios para catalogar a esta experiencia didáctica como proyecto colaborativo. Pensad sobre su proceso de realización, protagonistas, actividades, evaluación, roles de los alumnos/as, recursos…Identificad lo propuesto en este modulo con esta interesante iniciativa.  
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/201103BlogProyectoConstruyendoHistorias.JPG)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/201103BlogProyectoConstruyendoHistorias.JPG)
 

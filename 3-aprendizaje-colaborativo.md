@@ -16,7 +16,7 @@ Lo fundamental del trabajo con estas actividades no son los medios técnicos que
 - interacción personal
 - empatía
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/cabeza2.gif)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/cabeza2.gif)
 
 Vamos a intentar reflexionar y exponer en común los objetivos, tareas, dificultades, ventajas y logros que nos encontramos en el trabajo colaborativo con nuestros compañeros de curso. Esperamos obtener un primer entrenamiento para actuar con nuestros alumnos en el próximo módulo, mediante la realización de un Aprendizaje Colaborativo entre los componentes del curso.
 Una de las dificultades que tiene el trabajo en el aula es la sensación, que podemos tener, de encontrarnos muy “solos” ante las dificultades que cotidianamente surgen o ante los retos, que nosotros mismos nos proponemos en ocasiones, y ello a pesar de estar rodeados por todo un Centro de trabajo, lleno de compañeros/as y recursos; por no hablar de los demás compañeros/as de otros centros.

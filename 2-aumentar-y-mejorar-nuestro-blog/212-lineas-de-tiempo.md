@@ -10,6 +10,6 @@ HISTÓRICO CATEDU:
 
 El código EMBED esta muy bien señalizado abajo a la derecha:
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/img0.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/img0.png)
 
 Un inconveniente es que sólo se puede crear una línea de tiempo por cada correo electrónico, una solución es usar varios correos electrónicos.

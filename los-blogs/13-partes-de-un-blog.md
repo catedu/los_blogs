@@ -11,7 +11,7 @@ Las **categorías **son las diferentes secciones que estableceremos dentro del b
 
 Otra palabra que encontraremos al publicar los posts es “**tag**” o etiqueta. Es la palabra o palabras que definen el tema sobre el que trata ese post. Ayudan a posicionar el artículo dentro de los buscadores. Por ejemplo, un artículo sobre el último rediseño de Twitter debería llevar los tags: Twitter, diseño, rediseño, redes sociales, social media…
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/Captura_de_pantalla_2016-04-22_a_las_10.38.54.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Captura_de_pantalla_2016-04-22_a_las_10.38.54.png)
 
 #Ampliamos vocabulario
 

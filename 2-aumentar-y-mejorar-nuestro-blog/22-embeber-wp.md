@@ -2,7 +2,7 @@ Cada vez hay más problemas de seguridad para embeber, por ejemplo WORDPRESS.COM
 
 Por lo tanto **WordPress.com sí** que permite embeber documentos de Drive, Youtube, Issu... **pero otros, no los permite,** **al menos que exista un código especial para Wordpress**, por ejemplo en Slideshare, no tenemos que utilizar el código embed normal, sino el específico para WordPress
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/embeberWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/embeberWP.png)
 
 # Embeber en el WP de CATEDU
 ### Paso 1 Activar el pluging Unfiltered MU

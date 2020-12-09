@@ -1,7 +1,7 @@
 #Tipos de blogs
 No pretendemos, ni perseguimos establecer una taxonomía de las distintas bitácoras o blogs que se pueden perfilar en el ámbito educativo pues, seguramente podremos hacer tantas como intenciones educativas haya o como objetivos curriculares específicos se planteen.
 **Fernando Santamaría González** hace una síntesis de las clasificaciones de varios autores, especialistas en este asunto que han estudiado el tema (Tíscar Lara, Lorenzo García Aretio y J. Carrera Plaza) y establece la siguiente clasificación:
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/1.jpg)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/1.jpg)
 Fig. 1.4 Diego Arroyo. Clasificación de blogs
 Imagen - Fig. 1.4 Diego Arroyo. Clasificación de blogs
 
@@ -29,5 +29,5 @@ L. García Areitio (2005) estructura estos tipos de blogs en aquellos que:
 
 o **Dirigidos a la Comunidad educativa** de modo que proporcionan información periódica y relevante a las familias sobre la evolución general del aula o grupo en cuestión. A su vez facilita el intercambio de opiniones e informaciones entre todos los miembros.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/blog_tu.jpg)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/blog_tu.jpg)
 1.5 Diego Arroyo

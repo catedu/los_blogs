@@ -2,7 +2,7 @@
 
 Es muy típico no dar permiso de EDICIÓN :
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2016-04-27_11_28_44-Seleccion_003.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-04-27_11_28_44-Seleccion_003.png)
 
 ## Y si esta mal, tú lo ves bien, pero lo otros no
 
