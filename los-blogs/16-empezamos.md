@@ -16,11 +16,11 @@ Recibirás el usuario y la contraseña y tenemos que diferenciar dos direcciones
 
 El backend sólo es accesible con tu usuario y contraseña y pide solucionar un _Captcha._
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/2017-02-04_13_14_20-CATEDU_INSTRUCCIONES_EDITORES_DE_WORDPRESS_-_PDF-XChange_Viewer.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2017-02-04_13_14_20-CATEDU_INSTRUCCIONES_EDITORES_DE_WORDPRESS_-_PDF-XChange_Viewer.png)
 
 ## Cambiar los datos propios del perfil
 
 Correo electrónico, alias, web, nombre en Twitter, imagen y generar nueva contraseña si se considera necesario.
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/perfilWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/perfilWP.png)
 

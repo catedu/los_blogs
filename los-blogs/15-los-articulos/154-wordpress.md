@@ -6,4 +6,4 @@ Ya has visto cómo se escriben artículos (aquí llamados Entradas) en Blogger, 
 - Tags o palabras clave
 - El cuerpo del artículo y el botón Leer más...
 
-![](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/img/categoriasYTagsWP.png)
+![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoriasYTagsWP.png)
