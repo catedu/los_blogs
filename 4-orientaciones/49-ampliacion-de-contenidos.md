@@ -12,7 +12,7 @@ Pagina web de Pere Marques, en la que el uso de las TIC junto con los proyectos 
 
 Visitando estos enlaces podéis añadir más información a la ya añadida. Son lecturas muy recomendables,variadas e interesantes acerca de todo lo visto hasta ahora:
 
-* [aprendizaje cooperativo](http://innovacioneducativa.upm.es/guias/Aprendizaje_coop.pdf)
+* [aprendizaje cooperativo](https://github.com/catedu/los_blogs/blob/master/4-orientaciones/Aprendizaje%20orientado%20a%20proyectos.pdf) del Servicio de Innovación Educativa de la Universidad Politécnica de Madrid
 
 
 
