@@ -3,7 +3,7 @@
 Es una excelente herramienta https://app.genial.ly/ pues permite crear contenidos muy visuales y muy educativos
 1.- **Entra **https://app.genial.ly/ y regístrate
 
-![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-10 13_38_30.jpg)
+![](assets/2020-03-10 13_38_30.jpg)
 
 2.- **Crea **un contenido, en la versión PLAN FREE tienes mucho dónde elegir (en la Premium mucho más evidentemente), no sólo puede hacer presentaciones, sino también GAMIFICACIÓN, IMÁGENES INTERACTIVAS, INFOGRAFÍAS, HISTORIAS, ... un mundo donde motivar a nuestros alumnos...
 
