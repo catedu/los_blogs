@@ -16,7 +16,12 @@ Muy rápido, permite participantes a la vez con chat incorporado
 No tiene toda la funcionalidad de los documentos, úsalo cuando tu objetivo es **texto** o sea, contenido sin forma
 ##¿Cómo queda?
 
-Pues así ¿qué esperas para poner tu texto ? 
+Pues así ¿qué esperas para poner tu texto ?
+
+Para verlo correctamente el navegador debe de tener las cookies permitidas:
+
+* En Google Chrome chrome://settings/cookies
+* En Firefox about:preferences#privacy
+
 
 <iframe name="embed_readwrite" src="https://pad.education/p/prueba?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
-
