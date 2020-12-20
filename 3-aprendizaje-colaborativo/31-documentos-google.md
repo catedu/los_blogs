@@ -14,28 +14,24 @@ y aquí mismo puedes ver el resultado embebido:
 
 Entramos en Google - Drive y creamos un nuevo documento :
 
-![](https://catedu.github.io/los_blogs/abrirdocdrive.jpg)
+![](/assets/abrirdocdrive.jpg)
 
 
 Hemos creado el documento, podemos editarlo, y cuando lo tengamos preparado para compartir, pinchamos en... compartir ¡claro!
 
-![](https://catedu.github.io/los_blogs/compartirdrive.jpg)
+![](/assets/compartirdrive.jpg)
 
 **OJO** Si nos fijamos **NO ESTÁ PREPARADO EL ENLACE PARA QUE UNA PERSONA PUEDA EDITAR EL DOCUMENTO** pinchanos pues en **Cambiar**
 
-![](https://catedu.github.io/los_blogs/compartir-editor.jpg)
+![](/assets/compartir-editor.jpg)
 
 Con ese enlace lo podemos poner en nuestro blog y cualquiera que pinche en ese enlace puede editar el texto
 
 ## Si vale, pero quiero también tenerlo embebido
 
-Pues en ese caso vamos a Archivo
+Pues en ese caso vamos a Archivo y en la nueva ventana, seleccionamos Insertar... y obtenemos el código embed
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Menu_005.png)
-
-Y en la nueva ventana, seleccionamos Insertar... y obtenemos el código embed
-
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Seleccion_008.png)
+![](/assets/embed-drive.jpg)
 
 Fíjate que podemos detener la publicación cuando queramos
 
