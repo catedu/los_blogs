@@ -14,12 +14,16 @@ y aquí mismo puedes ver el resultado embebido:
 
 Entramos en Google - Drive y creamos un nuevo documento :
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Menu_002.png)
+![](https://catedu.github.io/los_blogs/abrirdocdrive.jpg)
 
 
 Hemos creado el documento, podemos editarlo, y cuando lo tengamos preparado para compartir, pinchamos en... compartir ¡claro!
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Seleccion_003.png)
+![](https://catedu.github.io/los_blogs/compartirdrive.jpg)
+
+**OJO** Si nos fijamos **NO ESTÁ PREPARADO EL ENLACE PARA QUE UNA PERSONA PUEDA EDITAR EL DOCUMENTO** pinchanos pues en **Cambiar**
+
+![](https://catedu.github.io/los_blogs/compartir-editor.jpg)
 
 Con ese enlace lo podemos poner en nuestro blog y cualquiera que pinche en ese enlace puede editar el texto
 
@@ -42,4 +46,3 @@ Fíjate que podemos detener la publicación cuando queramos
 - El** enlace **te lleva al documento, y se abre en una ventana de Google POR LO TANTO** SE PUEDE EDITAR **(si le has dado bien el permiso Mira la 2ª figura :** Cualquiera con el enlace puede editar.**
 - El embebido **NUNCA SE PUEDE EDITAR,** ES SÓLO PARA VER **el usuario por mucho que pinche no se abre Google Docs.
 - Como en este módulo el objetivo es crear documentos colaborativos **EL ENLACE CON PERMISO DE EDICIÓN ES OBLIGATORIO **y el embebido es por cuestiones estéticas de que el artículo no quede pobre.
-
