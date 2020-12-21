@@ -1,16 +1,16 @@
 # Categorías, etiquetas y publicar
 
+![](/assets/articulosWP.png)
+
 ## Categorías
 
 Seleccionar entre las categorías que están disponibles. Se pueden seleccionar varias a la vez, o añadir categorías.
 
 En el caso de las actividades, puede ser las fechas de las sesiones o las diferentes temáticas o _items _que trabajan y quieren colgar los contenidos.
 
-![](/assets/articulosWP.png)
+![](/assets/categoriasWP.png)
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoriasWP.png)
-
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoria2.png)
+![](/assets/categoria2.png)
 
 
 ## Etiquetas
@@ -19,8 +19,8 @@ Son la palabras clave que facilitan encontrar la entrada, recomendamos usar siem
 
 Podemos poner más de una.
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/etiquetas.png)
+![](/assets/etiquetas.png)
 
 ## Publicar
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/publicar.png)
+![](/assets/publicar.png)
