@@ -37,5 +37,5 @@ Aquí escribiremos el artículo en sí, pero unos consejos:
 3. Interacción:
     1. **Atrae** a los alumnos en temáticas motivadoras.
     1. Si no interactúan ¿para qué sirve? **Busca la interacción,** no hagan una lectura pasiva: Que respondan, que contesten, que realicen una encuesta, que investiguen, que enriquezcan..
-    
-    ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/seUnio.png)
+
+    ![](https://catedu.github.io/los-blogs/assets/leermas.jpg)
