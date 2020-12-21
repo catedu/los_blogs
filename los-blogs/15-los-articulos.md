@@ -1,3 +1,3 @@
 #LOS ARTÍCULOS
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/image.png)
+![](https://catedu.github.io/los_blogs/assets/blog-nuevoarticulo.jpg)
