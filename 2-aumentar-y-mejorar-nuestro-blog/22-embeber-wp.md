@@ -1,9 +1,3 @@
-Cada vez hay más problemas de seguridad para embeber, por ejemplo WORDPRESS.COM no permite embeber códigos embed que tengan iframe, frame, embed (que son muchos) o javascript [[ver](https://en.support.wordpress.com/code/)]
-
-Por lo tanto **WordPress.com sí** que permite embeber documentos de Drive, Youtube, Issu... **pero otros, no los permite,** **al menos que exista un código especial para Wordpress**, por ejemplo en Slideshare, no tenemos que utilizar el código embed normal, sino el específico para WordPress
-
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/embeberWP.png)
-
 # Embeber en el WP de CATEDU
 ### Paso 1 Activar el pluging Unfiltered MU
 Debido a que no tendrás los roles de super-administrador, hay que activar este pluging para que puedas embeber código en tus artículos de WP
@@ -24,3 +18,11 @@ Entras:
 3.-Herramientas - <>Código fuente y pegas el código ahí
 
 ![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-10%2013_33_45.jpg)
+
+# Embeber en otros WP que no son de CATEDU
+
+Cada vez hay más problemas de seguridad para embeber, por ejemplo WORDPRESS.COM no permite embeber códigos embed que tengan iframe, frame, embed (que son muchos) o javascript [[ver](https://en.support.wordpress.com/code/)]
+
+Por lo tanto **WordPress.com sí** que permite embeber documentos de Drive, Youtube, Issu... **pero otros, no los permite,** **al menos que exista un código especial para Wordpress**, por ejemplo en Slideshare, no tenemos que utilizar el código embed normal, sino el específico para WordPress
+
+![](/assets/embeberWP.png)

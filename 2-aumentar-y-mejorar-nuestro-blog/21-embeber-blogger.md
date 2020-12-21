@@ -1,4 +1,4 @@
-#Embeber 
+#Embeber
 **Embeber **en informática significa"incrustar" quizás sea una castellanización del inglés "embed". Con los blogs podemos incrustar código de una fuente en otra y de esta manera conseguimos que nuestros artículos cobren vida, es una herramienta tan potente que está estandarizada en Internet. ES UN CONCEPTO CLAVE EN LOS BLOGS.
 
 #¿Qué puedo embeber?
@@ -25,4 +25,12 @@ La **TÉCNICA **es sencilla:
 
 >**tip**
 >Puedes pegar el código donde quieras en medio de la redacción por ejemplo "Mira el siguiente vídeo ... y pegas el código ahí
+
+![](/assets/dondeembeberWP1.png)
+
+y luego
+
+![](/assets/dondeembeberWP2.png)
+
+>**tip**
 >También puedes modificar el tamaño de lo embebido, por ejemplo en la figura anterior se podría modificar los números width="1000" y height="800" si lo embebido sale de tu plantilla elegida en tu blog
