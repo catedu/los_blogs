@@ -6,5 +6,4 @@ En el [manual de Raul Diego](http://www.rauldiego.es/manual-blogger/) hemos apre
 * Las etiquetas o tags, en Blogger son importantes, y se utiliza para la categorización de los artículos.
 * El cuerpo y la opción Leer más...
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/bloger-articulo.png)
-
+![](https://catedu.github.io/los-blogs/assets/bloger-articulo.png)
