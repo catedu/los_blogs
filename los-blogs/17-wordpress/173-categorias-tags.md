@@ -6,6 +6,8 @@ Seleccionar entre las categorías que están disponibles. Se pueden seleccionar 
 
 En el caso de las actividades, puede ser las fechas de las sesiones o las diferentes temáticas o _items _que trabajan y quieren colgar los contenidos.
 
+![](/assets/articulosWP.png)
+
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoriasWP.png)
 
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/categoria2.png)
@@ -22,4 +24,3 @@ Podemos poner más de una.
 ## Publicar
 
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/publicar.png)
-
