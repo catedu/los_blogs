@@ -2,7 +2,7 @@
 Aunque al principio había muchas plataformas donde poder crear nuestro blog, lo cierto es que actualmente se han impuesto dos: Blogger y Wordpress.
 ¿Cual aconsejamos en este curso? Nuestro favorito por los problemas de embeber de WordPress, **RECOMENDAMOS EN ESTE CURSO BLOGGER**.
 
-##BLOGGER
+##OPCIÓN BLOGGER
 
 * Ventaja: Es muy sencillo de manejar. Integrado con el conjunto de herramientas de Google. Numerosos plugins
 * Desventajas Los alumnos para participar necesitan email. No tiene árbol de categorías
@@ -15,7 +15,7 @@ En este sencillo pero interesante y útil manual, viene todo explicado con gran 
 
 Este otro** [manual de JR Olalla](http://jr2punto0.blogspot.com.es/2013/11/publicar-en-arablogs.html) **es más sencillo que el anterior, en 10 páginas explica Blogger
 
-##WORDPRESS
+##OPCIÓN WORDPRESS
 
 * VENTAJA Es un producto standard. Es versátil, con muchas posibilidades, sirve como página web de muchos centros educativos
 * DESVENTAJAS
