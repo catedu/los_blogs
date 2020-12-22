@@ -9,19 +9,17 @@ Además de esto, nuestras fichas interactivas aprovechan las ventajas que nos of
 Nos gusta mucho y además se puede embeber en tu blog ¿qué más se puede pedir?. Puedes utilizar una ficha ya creada o crearte la tuya, ver su tutorial en [su página](https://es.liveworksheets.com/aboutthis_es.asp).
 
 ##¿Cómo se embebe?
-Tiene un enlace que te facilita el código, con unas mininstrucciones y con posibilidad de fijar en ancho ¡¡ójala todas las webs facilitasen así las cosas!!
+Tiene un enlace que te facilita el código, con unas ¡ mininstrucciones! y con posibilidad de fijar en ancho ¡¡ójala todas las webs facilitasen así las cosas!!
 
 ![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-05-08 10_29_46-Window.jpg)
 
-##Otra opción en vez de embeber: poner un enlace personalizado
+## Enlace personalizado
+
 La opción **personalizar enlace** y añadir un enlace al blog pues permite algunas opciones de comprobación y calificación
 
  ![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-05-08 10_37_23-Window.jpg)
 
-##¿Cómo queda?
-Pues así queda en enlace [personalizado](https://es.liveworksheets.com/dy1230842br).
-
-Y así queda el contenido embebido:
+----------------------------
 
 <div align="center" id="liveworksheet1230842" style="width:100%">
 <span id="lwslink1230842"><font face="Arial" size="2"><a href="https://es.liveworksheets.com/worksheets/es/Programacion/Algoritmos/Pensamiento_Computacional_dy1230842br">Pensamiento Computacional</a>, una ficha interactiva de <a href="https://es.liveworksheets.com/user/Robotica">Robotica</a></font>
