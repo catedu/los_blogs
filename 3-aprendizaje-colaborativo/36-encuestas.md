@@ -3,7 +3,7 @@ Consideramos las encuestas como un elemento colaborativo, pues son varias person
 
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/46566.png)
 
-Pero , si se marca la opción que puedan ver las respuestas una vez finalizada la encuesta, o a la vez se está proyectando las respuestas-v-resultado de esta encuesta, tiene su realimentación en el otro sentido, y todos aprender de todos. [MIRA UN EJEMPLO](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/y_si_lo_pruebas.html)
+Pero, si se marca la opción que puedan ver las respuestas una vez finalizada la encuesta, o a la vez se está proyectando las respuestas-v-resultado de esta encuesta, tiene su realimentación en el otro sentido, y todos aprender de todos.
 
 # FORMULARIO DE GOOGLE
 
@@ -31,7 +31,7 @@ Entramos en Google - Drive con nuestra cuenta y abrimos un nuevo formulario:
 
 [Aquí](http://es.wikieducator.org/Google_drive/Interfaz_de_Formularios_de_Google) tienes una página web que igualmente lo explica bien.
 
-# Cómo se envía
+# Cómo se embebe
 
 Tenemos varios métodos en Enviar :
 
@@ -44,6 +44,18 @@ Con un enlace pulsando en el icono de la cadena ![](/assets/img1.png) nos facili
 ![](/assets/Seleccion_011.png)
 
 No hace falta que el usuario esté registrado en Google para hacer el cuestionario _al menos que marquemos en el cuestionario que los usuarios no pueden repetirlo, luego sí que tienen que estar registrados en Google para que Google controle que no se pueda repetir ¡¡es lógico!!_
+
+## ¿Cómo queda?
+
+Pues así queda embebido [una encuesta sobre este curso](https://docs.google.com/forms/d/e/1FAIpQLSeVe_yD9E8t1jm3j5RloCSYFLGVSPNoenr-5BooJTLgatOWEA/viewform?usp=sf_link) ¡¡¡ pon tu respuesta !! es anónimo
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeVe_yD9E8t1jm3j5RloCSYFLGVSPNoenr-5BooJTLgatOWEA/viewform?embedded=true" width="640" height="612" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
+## ¿Y se puede ver la respuestas?
+Claro, las respuestas se vuelcan en una hoja de cálculo de Google y ya sabes cómo embeber una hoja de cálculo mira unos capítulos atrás
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 # ENCUESTA CON PLAYBUZZ
 

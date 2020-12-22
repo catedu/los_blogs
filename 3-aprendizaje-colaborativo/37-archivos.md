@@ -6,7 +6,7 @@ Una forma cómoda para compartir archivos con los alumnos de forma cooperativa e
 
 Vamos a probar a crear un documento sencillo de 2-3 lineas  [EN ESTA CARPETA DRIVE ](https://drive.google.com/drive/folders/0B3FoIk-apny0VHc5SnVmOVdGSWs?usp=sharing), CON TU NOMBRE Y LO GRABAS AHÍ.
 
-*Dentro de [esa carpeta Drive ](https://drive.google.com/drive/folders/0B3FoIk-apny0VHc5SnVmOVdGSWs?usp=sharing) hay un fichero Word con los campos bloqueados (si no lo ha borrado alguien esa es la pega de acceso abieto a todos) Si te ha gustado lo de bloquear campos en Word es muy fácil, [mira este sencillo tutorial](https://support.office.com/es-es/article/permitir-cambios-en-partes-de-un-documento-protegido-187ed01c-8795-43e1-9fd0-c9fca419dadf).*
+*Dentro de [esa carpeta Drive ](https://drive.google.com/drive/folders/0B3FoIk-apny0VHc5SnVmOVdGSWs?usp=sharing) hay un fichero Word con los campos bloqueados (si no lo ha borrado alguien esa es la pega de acceso abierto a todos) Si te ha gustado lo de bloquear campos en Word es muy fácil, [mira este sencillo tutorial](https://support.office.com/es-es/article/permitir-cambios-en-partes-de-un-documento-protegido-187ed01c-8795-43e1-9fd0-c9fca419dadf).*
 
 ## ¿Qué pega tiene?
 
