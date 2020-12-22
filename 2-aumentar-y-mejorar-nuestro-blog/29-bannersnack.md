@@ -4,6 +4,7 @@
 
 Y así queda [en una página de un Blog de Blogger](https://roboticajavierquintana.blogspot.com/2019/07/prueba-bannersnack.html)
 
+<!------------------------   MIS FOTOS-336x280   ------------------------>
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"b7j8raalc","width":336,"height":280,"t":1563300405,"userId":39453864,"type":"html5"};
 </script>

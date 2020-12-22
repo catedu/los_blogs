@@ -11,23 +11,21 @@ Aquí tienes un ejemplo:
 #¿Cómo se hace?
 Nos registramos en Sign Up
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/podcast1.png)
+![](/assets/podcast1.png)
 
 Nos podemos registrar por Facebook o por correo electrónico, nosotros recomendamos correo electrónico
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/sginupPodcast.png)
+![](/assets/sginupPodcast.png)
 
 Una vez registrado, entramos en Create Podcast
 
-[](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/podcast1.png)
+![](/assets/podcast1.png)
 
 Y vemos esta web para subir el archivo de audio
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/subirPodcast.png)
+![](/assets/subirPodcast.png)
 
 Subimos el archivo de audio (Hay que usar un programa de grabación, recomendamos AUDACITY)
 Una vez subido, (nos insistirá que nos inscribamos a la cuenta no gratuita) podemos encontrar el código embed aquí:
 
-![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-12 14_00_10.jpg)
-
-![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-12 13_59_36.jpg)
+![](/assets/subirPodcast2.png)
