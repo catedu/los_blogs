@@ -1,4 +1,5 @@
-#Conceptos
+# M1 CREAMOS NUESTRO Blog
+## Conceptos
 Con 100 gramos de ilusión, una puñado de motivación y una pizca de conocimientos, cocinamos un blog rico, rico!!
 #Introducción
 Nos remontamos al informe que la representación de Suecia aportó al Seminario de la OCDE en Septiembre de 2001 celebrado en Santander, donde afirmó: _"El enseñante funciona más como asesor y animador, menos como conferenciante. La enseñanza es cada vez más individualizada y el abandono del modelo magistral – que se dirige a toda la clase- se ha acelerado"_. En línea similar, la representación de los Países Bajos, refiriéndose al nuevo rol del docente ante la integración de las TIC, afirmó: "Se aprecia una evolución lenta, pero constante, de la educación tradicional centrada en el docente hacia ambientes de aprendizaje más ricos y diferenciados en los cuales, el rol del docente está asumiendo el perfil de apoyo. La integración de las TIC en los centros educativos estimula esta transformación"

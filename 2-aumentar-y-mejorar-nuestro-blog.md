@@ -1,4 +1,4 @@
-# Aumentar y mejorar nuestros contenidos
+# M2 Aumentar y mejorar nuestros contenidos
 
 ¿Un artículo sin ninguna imágen? ¿No hay vídeos en tu blog? El alumnado perderá interés por lo que cuelgas, no hay diferencia entre tu blog y repartir fotocopias a los alumnos, no hay cambio metodológico, porque no hay cambio en tu forma de representar la información.
 

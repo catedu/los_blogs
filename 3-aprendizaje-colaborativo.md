@@ -1,4 +1,6 @@
-#Contenidos
+# M3 APRENDIZAJE COLABORATIVO
+
+## Contenidos
 
 Ahora buscamos interacción! el alumno en este módulo no se comporta como un sujeto pasivo, sino activo, respondiendo a las actividades que se le propone y creando contenidos con otros compañeros en grupo.
 
