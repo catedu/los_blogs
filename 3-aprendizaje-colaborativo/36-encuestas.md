@@ -1,11 +1,11 @@
-#Encuestas
+# Encuestas
 Consideramos las encuestas como un elemento colaborativo, pues son varias personas que participan en la información de un documento. Puede ser opiniones, cuestiones, preguntas abiertas,... aunque si se maneja en un sentido alumnos->profesor pierde el carácter colaborativo.
 
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/46566.png)
 
 Pero , si se marca la opción que puedan ver las respuestas una vez finalizada la encuesta, o a la vez se está proyectando las respuestas-v-resultado de esta encuesta, tiene su realimentación en el otro sentido, y todos aprender de todos. [MIRA UN EJEMPLO](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/y_si_lo_pruebas.html)
 
-#FORMULARIO DE GOOGLE
+# FORMULARIO DE GOOGLE
 
 ## ¿Qué es?
 
@@ -17,7 +17,7 @@ Los resultados se almacenan en una hoja de cálculo que automáticamente se crea
 
 Entramos en Google - Drive con nuestra cuenta y abrimos un nuevo formulario:
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Menu_009.png)
+![](/assets/Menu_009.png)
 
 
 **Creas** las preguntas, es muy intuitivo, vamos a señalar las que hay:
@@ -35,16 +35,16 @@ Entramos en Google - Drive con nuestra cuenta y abrimos un nuevo formulario:
 
 Tenemos varios métodos en Enviar :
 
-Con un enlace pulsando en el icono de la cadena ![](img/img1.png) nos facilita un enlace. Por email, ponemos la direcciones de correo separadas por coma y envía el enlace anterior.
+Con un enlace pulsando en el icono de la cadena ![](/assets/img1.png) nos facilita un enlace. Por email, ponemos la direcciones de correo separadas por coma y envía el enlace anterior.
 
 * * Lo podemos poner en la página web y que lo hagan tranquilamente en casa
-  * Si es en directo podemos ponerlo en el Twitter o generar el código QR \(ya lo vimos en el tema 1\) y proyectarlo y que la gente lo haga con el móvil 
+  * Si es en directo podemos ponerlo en el Twitter o generar el código QR \(ya lo vimos en el tema 1\) y proyectarlo y que la gente lo haga con el móvil
 * Podemos embeberlo en la página web, en la pestaña &lt; &gt; tenemos el código
 
-![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/Seleccion_011.png)
+![](/assets/Seleccion_011.png)
 
 No hace falta que el usuario esté registrado en Google para hacer el cuestionario _al menos que marquemos en el cuestionario que los usuarios no pueden repetirlo, luego sí que tienen que estar registrados en Google para que Google controle que no se pueda repetir ¡¡es lógico!!_
 
-#ENCUESTA CON PLAYBUZZ
+# ENCUESTA CON PLAYBUZZ
 
-Si eres de los que buscan un producto más visual, te recomendamos[ esta herramienta](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/playbuzz.html)
+Si eres de los que buscan un producto más visual, te recomendamos https://www.playbuzz.com/

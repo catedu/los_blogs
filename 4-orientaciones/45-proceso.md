@@ -1,4 +1,4 @@
-#roceso
+# Proceso
 
 Una vez tomada la decisión de organizar o participar en un proyecto colaborativo hay que organizar el trabajo de forma que sea rentable didácticamente.
 Los aspectos que debemos tener en cuenta para este menester, son los siguientes:

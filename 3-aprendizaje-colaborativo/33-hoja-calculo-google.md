@@ -4,10 +4,8 @@ En Drive podemos hacer también hojas de cálculo, y también se puede compartir
 
 ## ¿Cómo queda?
 
-En este caso vas a ver cómo queda una hoja de cálculo que esta vez no tiene permisos de edición, sólo lectura, y corresponde al caso real de préstamos de los robots mBot que tiene [CATEDU](http://www.catedu.es/webcatedu/) en la página de [Robotica](http://web.catedu.es/webcatedu/index.php/destacados/149-robotica)
+Se puede hacer varias actividades colaborativas, pon tu altura [en esta hoja de cálculo](http://www.catedu.es) en la página de [Robotica](https://docs.google.com/spreadsheets/d/1xrFNH1U4mm4n6iK-n5Dh7kKtjM-42jtV9YfllpcJ840/edit?usp=sharing) y automáticamente sale el histograma y la media
 
-<iframe width="100%" height="240" src="https://docs.google.com/spreadsheets/d/15yzExh2rD4XGuK03Jlpt34IDj5-ltorpq3MO17fgh44/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7UPY8cX-cAVBgQNOfbBXUK6YM-iJazX3gO8z6tCydEVEzmIB7ySISSOeVcCArqZ9z3MVJGFKv3evd/pubhtml?widget=true&amp;headers=false"></iframe>
 
-Se podría utilizar para mostrar en el blog la evaluación de una actividad, por ejemplo, o los pasos a realizar en tal actividad,...
-
-No lo utilices para realizar una encuesta, espera a la [Unidad 3](u3_encuestas.md)
+No lo utilices para realizar una encuesta, espera un poco que lo verás dentro de unas páginas !!!

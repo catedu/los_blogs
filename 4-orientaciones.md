@@ -1,4 +1,4 @@
-#Propuesta colaborativa:Orientaciones
+# M4 Propuesta colaborativa: Orientaciones
 
 ##INTRODUCCIÓN
 La participación en cualquier tipo de actividad, y más si implica a un nutrido grupo de alumnos y de diferentes procedencias, es algo que no se puede dejar en manos del devenir y confiar en la buena marcha de las cosas. Es imprescindible hacer una buena planificación y procurarse las mayores garantías posibles de éxito. Para ello deberemos contemplar diferentes cuestiones que pasamos a analizar y que siempre estarán en función de las circunstancias concretas de cada caso.

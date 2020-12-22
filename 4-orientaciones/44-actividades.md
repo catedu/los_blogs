@@ -15,7 +15,7 @@ Además, de las actividades propuestas, son muy importantes las dinámicas de gr
 
 Aquí, podemos ver en esta presentación un ejemplo expuesto por Aaron Mena, de lo que es una experiencia colaborativa.
 
-<iframe src="http://prezi.com/embed/wtqbscwj8cyh/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" frameborder="0" width="100%" height="600"></iframe>
+<iframe src="https://prezi.com/embed/wtqbscwj8cyh/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" frameborder="0" width="100%" height="600"></iframe>
 
 Centrándonos en actividades, que podemos llevar a cabo desde ya en nuestra clase, "se aprende haciendo", algunos ejemplos pueden ser, como muy bien expone Pere Marques, en su articulo "Modelos didácticos de aprendizaje en grupo y aprendizaje colaborativo con TIC":
 
@@ -47,5 +47,3 @@ Desarrollando algunas de estas actividades, nos encontramos en el camino de los 
 ![](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
 [Photo by Brooke Cagle on Unsplash](https://unsplash.com/@brookecagle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-
