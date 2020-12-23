@@ -2,7 +2,7 @@
 
 Otra opción es entrar en [Google Fotos](https://photos.google.com/?hl=es), igual que Flick NO PERMITE EMBEBER PRESENTACIONES pero sí hacer un enlace
 
-**Presentamos Fotos Google pues permite COLABORAR es decir, que cualquier persona puede añadir fotos**, esto nos parece interesante para las actividades extraescolares, además de que se puede embeber con PhotoSnack
+**Presentamos Fotos Google pues permite COLABORAR es decir, que cualquier persona puede añadir fotos**, esto nos parece interesante para las actividades extraescolares. **No se puede embeber**
 
 Por ejemplo [ESTE ENLACE](https://goo.gl/photos/D6sAY7MVNP36BxeZ6)
 
@@ -29,6 +29,3 @@ Por ejemplo el de <span style="background-color:yellow">COLABORAR</span>, podemo
 5. <span style="background-color:yellow">Le damos a copiar en enlace y ya está</span>
 
 ![](https://catedu.github.io/aprendizaje-colaborativo-con-blog/img/2016-11-18_10_50_18-aranas_y_mantis_-_Google_Fotos.png)
-
-
-

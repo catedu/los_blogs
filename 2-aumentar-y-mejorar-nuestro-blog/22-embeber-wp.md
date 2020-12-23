@@ -19,6 +19,9 @@ Entras:
 
 ![](https://raw.githubusercontent.com/catedu/los_blogs/master/assets/2020-03-10%2013_33_45.jpg)
 
+Si tienes problemas técnicos puedes preguntar a
+soportecatedu@educa.aragon.es
+
 # Embeber en otros WP que no son de CATEDU
 
 Cada vez hay más problemas de seguridad para embeber, por ejemplo WORDPRESS.COM no permite embeber códigos embed que tengan iframe, frame, embed (que son muchos) o javascript [[ver](https://en.support.wordpress.com/code/)]
