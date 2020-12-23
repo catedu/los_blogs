@@ -2,14 +2,14 @@
 **Embeber **en informática significa"incrustar" quizás sea una castellanización del inglés "embed". Con los blogs podemos incrustar código de una fuente en otra y de esta manera conseguimos que nuestros artículos cobren vida, es una herramienta tan potente que está estandarizada en Internet. ES UN CONCEPTO CLAVE EN LOS BLOGS.
 
 #¿Qué puedo embeber?
-Vídeos = Youtube
-Presentaciones = Slideshare
-Revistas, PDF = Issu
-Libros electrónicos = Scribd
-Fotos = Flickr
-Encuestas = Google Forms
-etc...
-Hay otros portales, alojadores, aplicaciones... todo esto es un mundo en continuo cambio.
+* Vídeos = Youtube
+* Presentaciones = Slideshare
+* Revistas, PDF = Issu
+* Libros electrónicos = Scribd
+* Fotos = Flickr
+* Encuestas = Google Forms
+
+etc... hay muchos portales y muchos servicios, **un mundo en continuo cambio*.
 
 # Cómo embeber
 
