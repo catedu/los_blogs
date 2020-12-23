@@ -5,7 +5,7 @@ No pretendemos desarrollar aquí la Ley de Protección de datos, pero sí advert
 Tienes que tener en cuenta que :
 
 * Algunos servicios que se utilizan para publicar como Google, Youtube y la mayoría de servicios web, están en servidores extranjeros fuera del Espacio Económico Europeo por lo que se consideran *transferencia internacional de datos*.
-* Es muy distinto que lo que publiques forma parte de tu función docente o no.
+* Tiene distinto tratamiento si lo que publicas es necesario para tu función docente o no.
 * Una imagen del alumno identificable es un dato de carácter personal.
 
 Te recomendamos:
@@ -15,7 +15,7 @@ Te recomendamos:
 
 ## Actividad
 
-Busca la respuesta en la Guia de para centros educativos de www.tudecideseninternet.es las respuestas a estas preguntas: *(para activar el buscador pulsa CTRL+F)*
+Busca la respuesta en la Guia de para centros educativos de https://www.tudecideseninternet.es/ las respuestas a estas preguntas: *(para activar en un PDF el buscador pulsa CTRL+F)*
 
 ![](https://moodle.catedu.es/pluginfile.php/126606/mod_url/intro/2020-12-05%2009_26_05-Window.png)
 
