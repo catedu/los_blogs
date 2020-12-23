@@ -52,7 +52,7 @@ Pues así queda embebido [una encuesta sobre este curso](https://docs.google.com
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeVe_yD9E8t1jm3j5RloCSYFLGVSPNoenr-5BooJTLgatOWEA/viewform?embedded=true" width="640" height="612" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 ## ¿Y se puede ver la respuestas?
-Claro, las respuestas se vuelcan en una hoja de cálculo de Google y ya sabes cómo embeber una hoja de cálculo mira unos capítulos atrás
+Claro, las respuestas se vuelcan en una hoja de cálculo de Google, [puedes poner un enlace a los resultados](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml) o embeberlo (si no sabes cómo hacerlo es que te has saltado un capítulo de antes)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml?widget=true&amp;headers=false"></iframe>
 
