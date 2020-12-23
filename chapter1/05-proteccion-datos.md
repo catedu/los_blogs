@@ -15,7 +15,7 @@ Te recomendamos:
 
 ## Actividad
 
-Busca la respuesta en la Guia de para centros educativos de https://www.tudecideseninternet.es/ las respuestas a estas preguntas: *(para activar en un PDF el buscador pulsa CTRL+F)*
+Busca las respuestas a estas preguntas en la Guia de para centros educativos de https://www.tudecideseninternet.es/ : *(para activar en un PDF el buscador pulsa CTRL+F)*
 
 ![](https://moodle.catedu.es/pluginfile.php/126606/mod_url/intro/2020-12-05%2009_26_05-Window.png)
 
