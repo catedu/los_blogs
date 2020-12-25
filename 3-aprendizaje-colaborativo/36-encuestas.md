@@ -54,7 +54,7 @@ Pues así queda embebido [una encuesta sobre este curso](https://docs.google.com
 ## ¿Y se puede ver la respuestas?
 Claro, las respuestas se vuelcan en una hoja de cálculo de Google, [puedes poner un enlace a los resultados](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml) o embeberlo (si no sabes cómo hacerlo es que te has saltado un capítulo de antes)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgmCAjTtsYlfmvsJq1eda5jgoEdo5_xFKVfxG9nZmj52q3j4ho8YNaZbaoz8tDk3doZzqWymbLBgo/pubhtml?widget=true&amp;headers=false width="100%"></iframe>
 
 
 # ENCUESTA CON PLAYBUZZ
